@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class SecretFormula here.
+ * Now This, This is EPIC!
  *
  * @author (your name)
  * @version (a version number or a date)
